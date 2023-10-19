@@ -2,3 +2,4 @@
 Js plugin aos
 live project 
  https://farahibnat.github.io/aos_2/
+file:///F:/index.html
